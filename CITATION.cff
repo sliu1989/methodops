@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "MethodOps: Human-Governed Research CI/CD"
+message: "If you use MethodOps, please cite this project."
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Shanshan"
+repository-code: "https://github.com/<your-org>/methodops"
+abstract: >-
+  MethodOps is a human-governed research CI/CD framework that encodes methodological
+  good practice via stage-specific policy skills, enforces approval gates, and
+  supports iterative improvement with versioned human feedback.
+keywords:
+  - methodops
+  - ai for science
+  - research automation
+  - governance
+  - simulation
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-02-14"
