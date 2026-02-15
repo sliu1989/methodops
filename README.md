@@ -32,6 +32,10 @@ Early prototype (v0.1 concept + stage notebooks). Actively iterating on governan
 - v0.3: end-to-end orchestrator with pluggable backends
 - v1.0: stable governed research pipeline + benchmark suite
 
+## Workflow
+
+![MethodOps workflow](figures/methodops_workflow.png)
+
 ## Citation
 If you use this concept/framework, cite via `CITATION.cff`.
 
